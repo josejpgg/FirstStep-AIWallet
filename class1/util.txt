@@ -1,0 +1,24 @@
+Wallet
+https://core.app/discover/?newUser=1
+
+API AI - Lenguaje natural a billetera
+https://www.brianknows.org/app/settings
+
+token
+brian_xxx123
+
+Web3 - front billeteras
+https://viem.sh
+
+Web3 - backend billetera
+https://docs.ethers.org/v5
+https://web3js.org
+
+
+Version node
+node --version
+Proyecto base de nodejs
+npm init
+
+Compilar código
+node app.js

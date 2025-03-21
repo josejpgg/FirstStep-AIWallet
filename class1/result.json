@@ -1,0 +1,78 @@
+[
+    {
+        "solver": "Brian",
+        "action": "transfer",
+        "type": "write",
+        "data": {
+            "description": "You are about to send 100.0 USDC ($100.0) to 0x9B1B2994A03877F5C52b10cb2276b82A19ceb2F2 on Avalanche.",
+            "steps": [
+                {
+                    "chainId": 43114,
+                    "blockNumber": 59050895,
+                    "from": "0x777c79841a5926FB631d4D581f6A2c5AF5fe7792",
+                    "to": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+                    "value": "0",
+                    "data": "0xa9059cbb0000000000000000000000009b1b2994a03877f5c52b10cb2276b82a19ceb2f20000000000000000000000000000000000000000000000000000000005f5e100",
+                    "gasLimit": "100000"
+                }
+            ],
+            "fromChainId": 43114,
+            "fromAmount": "100000000",
+            "fromToken": {
+                "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+                "chainId": 43114,
+                "symbol": "USDC",
+                "decimals": 6,
+                "name": "USD Coin",
+                "coinKey": "USDC",
+                "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+                "priceUSD": "1.0004001600640255"
+            },
+            "fromAddress": "0x777c79841a5926FB631d4D581f6A2c5AF5fe7792",
+            "toChainId": 43114,
+            "toAmount": "100000000",
+            "toAmountMin": "100000000",
+            "toToken": {
+                "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+                "chainId": 43114,
+                "symbol": "USDC",
+                "decimals": 6,
+                "name": "USD Coin",
+                "coinKey": "USDC",
+                "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+                "priceUSD": "1.0004001600640255"
+            },
+            "toAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "receiver": "0x9B1B2994A03877F5C52b10cb2276b82A19ceb2F2"
+        },
+        "extractedParams": {
+            "action": "transfer",
+            "token1": "USDC",
+            "chain": "",
+            "address": "0x9B1B2994A03877F5C52b10cb2276b82A19ceb2F2",
+            "amount": "100"
+        },
+        "conversationHistory": [
+            {
+                "sender": "user",
+                "content": "Quiero enviarle 100 USDC a la wallet de mi amigo"
+            },
+            {
+                "sender": "brian",
+                "content": "Hey there! I see you're looking to make a transfer. Could you please provide me with the address of the recipient? That way, I can help you complete the action. Thanks!"
+            },
+            {
+                "sender": "brian",
+                "content": "Hey there! I see you're looking to make a transfer. Could you please provide the address of the recipient? That way, I can help you with the next steps. Thanks!"
+            },
+            {
+                "sender": "user",
+                "content": "La dirección pública es: 0x9B1B2994A03877F5C52b10cb2276b82A19ceb2F2"
+            },
+            {
+                "sender": "brian",
+                "content": "You are about to send 100.0 USDC ($100.0) to 0x9B1B2994A03877F5C52b10cb2276b82A19ceb2F2 on Avalanche."
+            }
+        ]
+    }
+]

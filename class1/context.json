@@ -1,0 +1,18 @@
+[
+    {
+        "sender": "user",
+        "content": "Quiero enviarle 100 USDC a la wallet de mi amigo"
+    },
+    {
+        "sender": "brian",
+        "content": "Hey there! I see you're looking to make a transfer. Could you please provide me with the address of the recipient? That way, I can help you complete the action. Thanks!"
+    },
+    {
+        "sender": "brian",
+        "content": "Hey there! I see you're looking to make a transfer. Could you please provide the address of the recipient? That way, I can help you with the next steps. Thanks!"
+    },
+    {
+        "sender": "brian",
+        "content": "Hey there! I see you're looking to make a transfer. Could you please provide me with the address of the recipient? That way, I can help you complete the action. Thanks!"
+    }
+]
